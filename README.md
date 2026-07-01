@@ -28,10 +28,4 @@ Frontend developer based in **Osaka, Japan**. I care about the small details —
 
 ---
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerrytriple8&show_icons=true&theme=dark&hide_border=true)
-
----
-
 > Code should be as readable as the UI it produces.
